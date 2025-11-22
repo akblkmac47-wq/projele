@@ -1,2 +1,2 @@
-# projele
+veri kaybı modelleri 
 okul projeleri
