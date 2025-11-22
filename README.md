@@ -1,2 +1,1 @@
-veri kaybı modelleri 
-okul projeleri
+veri madenciliği proje müşteri kaybı 
